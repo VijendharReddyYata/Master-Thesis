@@ -1,6 +1,5 @@
 # Master Thesis
 Measurement of pores structural orientation from HR-pQCT images of human cortical bone: An auto-correlation based approach
-Measurement of pores structural orientation from HR-pQCT images of human cortical bone: An auto-correlation based approach
 
 - Matlab functions to extract the orientation of pores from CT data of human bone:
   - A function to extract the orientation of pores from an input cube in three different planes; YZ, XZ, and XY.

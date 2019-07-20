@@ -9,6 +9,6 @@ Measurement of pores structural orientation from HR-pQCT images of human cortica
 
 - Matlab code to verify the above-mentioned functions on in-silico data by creating some in-silico structures which resembles the HR-pQCT data of human cortical bone. 
 
-- Matlab code for 3D image registration between HR-pQCT and SR micro-CT data of human femoral bone. 
+- Matlab code for 2D and 3D image registration between HR-pQCT and SR micro-CT data of human femoral bone. 
 
 - Matlab code to cross-validate the orientation extracted from HR-pQCT with the reference SR micro-CT data using the above-mentioned functions.
